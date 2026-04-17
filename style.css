@@ -9,14 +9,15 @@ body{
     height:100vh;
     background:#7799de;
     display:flex;
-    justify-content:center;
-    align-items:center;
+  justify-content: center;
+   
 }
 
 .container{
+    margin:10px;
     width:100%;
     max-width:450px;
-    height:600px;
+    height: 100%;
     background:white;
     border-radius:10px;
     display:flex;
