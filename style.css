@@ -7,14 +7,15 @@
 
 body{
     height:100vh;
-    background:#E9ECF2;
+    background:#7799de;
     display:flex;
     justify-content:center;
     align-items:center;
 }
 
 .container{
-    width:450px;
+    width:100%;
+    max-width:450px;
     height:600px;
     background:white;
     border-radius:10px;
